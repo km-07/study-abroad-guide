@@ -1,0 +1,11 @@
+{
+  "name": "study-abroad-guide",
+  "version": "1.0.0",
+  "description": "Study abroad guidance website to provide information to students who are confsed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khushal Mehrotra",
+  "license": "ISC"
+}
