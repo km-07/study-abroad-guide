@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Study abroad guidance website to provide information to students who are confsed.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
